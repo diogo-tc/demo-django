@@ -13,4 +13,4 @@ class CategoriaAdmin(admin.ModelAdmin):
 class MensagemAdmin(admin.ModelAdmin):
     list_display = ("titulo", "categoria", "criada_em")          # ← + categoria
     list_filter = ("categoria",)                                 # ← novo filtro
-    search_fields = ("titulo", "conteudo")
+    search_fields = ("titulo", "conteudo") 

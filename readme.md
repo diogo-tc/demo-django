@@ -16,4 +16,4 @@ Abaixo estão algumas imagens do sistema em execução.
 
 ### Tela principal
 
-![alt text](image.png)
+![alt text](image-1.png)

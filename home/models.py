@@ -7,7 +7,7 @@ class Categoria(models.Model):                                  # ← novo model
     class Meta:
         ordering = ["nome"]
 
-    def __str__(self):
+    def __str__(self): 
         return self.nome
 
 
